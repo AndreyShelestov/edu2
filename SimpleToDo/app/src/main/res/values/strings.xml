@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">simpleToDoList</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_delete">Удалить</string>
+    <string name="title">Заголовок</string>
+    <string name="alert_cancel">aga</string>
+    <string name="menu_add">aga++</string>
+</resources>

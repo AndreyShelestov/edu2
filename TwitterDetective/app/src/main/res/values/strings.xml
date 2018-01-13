@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TwitterDetective</string>
+    <string name="action_settings">Settings</string>
+    <string name="query_prompt">Enter Twitter search query here</string>
+    <string name="tag_prompt">Tag your query</string>
+    <string name="save_description">Tap this button to save</string>
+    <string name="tagged_searches">Tags you searched</string>
+    <string name="search_url">http://mobile.twitter.com/search?q=</string>
+    <string name="share_edit_delete_title">Share, edit or delete the search tagged as \"%s\"</string>
+    <string name="cancel">cancel</string>
+    <string name="share_subject">Twitter search that might interest you</string>
+    <string name="share_message">Check out the results of this tweet: %s</string>
+    <string name="share_search">Share search to: </string>
+    <string name="confirm_message">Are you sure you want to delete the search \"%s\"?</string>
+    <string name="delete">Delete</string>
+</resources>

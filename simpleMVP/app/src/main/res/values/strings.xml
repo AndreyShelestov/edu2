@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simpleMVC</string>
+    <string name="countTextView1">Счетчик 1</string>
+    <string name="buttonCount1">Количество = 0</string>
+    <string name="countTextView2">Счетчик 2</string>
+    <string name="countTextView3">счетчик 3</string>
+</resources>
